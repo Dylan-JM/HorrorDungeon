@@ -74,7 +74,6 @@ Plugins/**/Intermediate/*
 DerivedDataCache/*
 
 # Ignore Content Files
-/Content/BigNiagaraBundle
 /Content/Blueprints
 /Content/Collections
 /Content/Developers
