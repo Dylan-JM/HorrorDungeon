@@ -74,7 +74,6 @@ Plugins/**/Intermediate/*
 DerivedDataCache/*
 
 # Ignore Content Files
-/Content/Dungeon/Meshes
 /Content/Dungeon/Swords
 /Content/Dungeon/Textures
 /Content/DyanmicCombatSystem
