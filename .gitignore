@@ -74,9 +74,6 @@ Plugins/**/Intermediate/*
 DerivedDataCache/*
 
 # Ignore Content Files
-/Content/Dungeon/Fire
-/Content/Dungeon/Levels
-/Content/Dungeon/Material_Instances
 /Content/Dungeon/Materials
 /Content/Dungeon/Medieval_Tavern_Props
 /Content/Dungeon/Meshes
