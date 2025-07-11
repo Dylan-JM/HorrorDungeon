@@ -74,7 +74,23 @@ Plugins/**/Intermediate/*
 DerivedDataCache/*
 
 # Ignore Content Files
-/Content/Dungeon/Textures
+/Content/Dungeon/Textures/Gound_Stone
+/Content/Dungeon/Textures/Metal_Bars
+/Content/Dungeon/Textures/Props
+/Content/Dungeon/Textures/Scribe_Props
+/Content/Dungeon/Textures/Skeletons
+/Content/Dungeon/Textures/Stone_00
+/Content/Dungeon/Textures/Stone_01
+/Content/Dungeon/Textures/Stone_02
+/Content/Dungeon/Textures/Stone_03
+/Content/Dungeon/Textures/Torch
+/Content/Dungeon/Textures/Torture_Devices_Breaking_Wheel
+/Content/Dungeon/Textures/Torture_Devices_Cage
+/Content/Dungeon/Textures/Torture_Devices_Chains
+/Content/Dungeon/Textures/Torture_Devices_Iron_Belt
+/Content/Dungeon/Textures/Torture_Devices_Judas_Candle
+/Content/Dungeon/Textures/Torture_Devices_Rope_00	
+/Content/Dungeon/Textures/Torture_Devices_Shackles_01
 /Content/DyanmicCombatSystem
 /Content/Effects
 /Content/Environment
