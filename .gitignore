@@ -74,7 +74,6 @@ Plugins/**/Intermediate/*
 DerivedDataCache/*
 
 # Ignore Content Files
-/Content/Megascans/3D_Assets
 /Content/Meshes
 /Content/ModularGothicFantasyEnvironment
 /Content/MSPresets
