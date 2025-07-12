@@ -74,8 +74,6 @@ Plugins/**/Intermediate/*
 DerivedDataCache/*
 
 # Ignore Content Files
-/Content/Dungeon/Textures/Torch
-/Content/Dungeon/Textures/Torture_Devices_Breaking_Wheel
 /Content/Dungeon/Textures/Torture_Devices_Cage
 /Content/Dungeon/Textures/Torture_Devices_Chains
 /Content/Dungeon/Textures/Torture_Devices_Iron_Belt
