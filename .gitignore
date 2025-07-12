@@ -74,7 +74,6 @@ Plugins/**/Intermediate/*
 DerivedDataCache/*
 
 # Ignore Content Files
-/Content/Dungeon/Textures/Skeletons
 /Content/Dungeon/Textures/Stone_00
 /Content/Dungeon/Textures/Stone_01
 /Content/Dungeon/Textures/Stone_02
