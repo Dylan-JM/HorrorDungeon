@@ -74,7 +74,6 @@ Plugins/**/Intermediate/*
 DerivedDataCache/*
 
 # Ignore Content Files
-/Content/Gothic_Cathedral
 /Content/HorrorDungeon
 /Content/InfinityBladeEffects
 /Content/IthrisCemetery
