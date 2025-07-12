@@ -74,10 +74,6 @@ Plugins/**/Intermediate/*
 DerivedDataCache/*
 
 # Ignore Content Files
-/Content/PhysMat
 /Content/ROG_Modular_Armor
 /Content/StarterContent
-/Content/Textures
 /Content/ThirdParty
-/Content/ThirdPerson
-/Content/Watermills
