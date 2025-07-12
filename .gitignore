@@ -74,8 +74,6 @@ Plugins/**/Intermediate/*
 DerivedDataCache/*
 
 # Ignore Content Files
-/Content/InfinityBladeEffects
-/Content/IthrisCemetery
 /Content/LevelPrototyping
 /Content/M5VFXVOL2
 /Content/Maps
