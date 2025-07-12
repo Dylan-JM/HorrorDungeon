@@ -74,7 +74,8 @@ Plugins/**/Intermediate/*
 DerivedDataCache/*
 
 # Ignore Content Files
-/Content/Meshes/Houses
+/Content/Meshes/Houses/MODULAR_ASSETS
+/Content/Meshes/Houses/Roofs
 /Content/ModularGothicFantasyEnvironment
 /Content/MSPresets
 /Content/ParagonGideon
