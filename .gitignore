@@ -74,10 +74,6 @@ Plugins/**/Intermediate/*
 DerivedDataCache/*
 
 # Ignore Content Files
-/Content/Dungeon/Textures/Torture_Devices_Cage
-/Content/Dungeon/Textures/Torture_Devices_Chains
-/Content/Dungeon/Textures/Torture_Devices_Iron_Belt
-/Content/Dungeon/Textures/Torture_Devices_Judas_Candle
 /Content/Dungeon/Textures/Torture_Devices_Rope_00	
 /Content/Dungeon/Textures/Torture_Devices_Shackles_01
 /Content/DyanmicCombatSystem
