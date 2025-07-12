@@ -74,7 +74,6 @@ Plugins/**/Intermediate/*
 DerivedDataCache/*
 
 # Ignore Content Files
-/Content/LevelPrototyping
 /Content/M5VFXVOL2
 /Content/Maps
 /Content/Materials
