@@ -74,9 +74,6 @@ Plugins/**/Intermediate/*
 DerivedDataCache/*
 
 # Ignore Content Files
-/Content/MSPresets
-/Content/ParagonGideon
-/Content/ParagonGreystone
 /Content/PhysMat
 /Content/ROG_Modular_Armor
 /Content/StarterContent
