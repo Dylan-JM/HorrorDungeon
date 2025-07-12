@@ -76,7 +76,6 @@ DerivedDataCache/*
 # Ignore Content Files
 /Content/Megascans/3D_Assets
 /Content/Megascans/3D_Plants
-/Content/Megascans/Atlases
 /Content/Meshes
 /Content/ModularGothicFantasyEnvironment
 /Content/MSPresets
