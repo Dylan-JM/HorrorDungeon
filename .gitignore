@@ -74,8 +74,6 @@ Plugins/**/Intermediate/*
 DerivedDataCache/*
 
 # Ignore Content Files
-/Content/Environment
-/Content/EnvironmentPack2
 /Content/FantasyBundle
 /Content/FXVarietyPack
 /Content/Gothic_Cathedral
