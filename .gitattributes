@@ -10,4 +10,3 @@ T_DungeonLamps_001_nm.uasset filter=lfs diff=lfs merge=lfs -text
 T_DungeonLamps_002_aorame.uasset filter=lfs diff=lfs merge=lfs -text
 T_DungeonLamps_002_cc.uasset filter=lfs diff=lfs merge=lfs -text
 T_DungeonLamps_002_nm.uasset filter=lfs diff=lfs merge=lfs -text
-T_Limestone_lichen_cliff_Normal.uasset filter=lfs diff=lfs merge=lfs -text
