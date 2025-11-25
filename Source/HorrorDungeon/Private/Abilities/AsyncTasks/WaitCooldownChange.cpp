@@ -2,7 +2,6 @@
 
 
 #include "Abilities/AsyncTasks/WaitCooldownChange.h"
-
 #include "AbilitySystemComponent.h"
 
 UWaitCooldownChange* UWaitCooldownChange::WaitForCooldownChange(UAbilitySystemComponent* AbilitySystemComponent, const FGameplayTag& InCooldownTag)
